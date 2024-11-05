@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Vector
+comment0.text=\n\ The\ Vector\ class\ represents\ a\ 2D\ vector\ with\ an\ x\ and\ y\ component.\n\ It\ provides\ various\ methods\ for\ performing\ vector\ movimentation\ and\ rotation.\n
+comment1.params=x\ y
+comment1.target=Vector(int,\ int)
+comment1.text=\n\ Constructs\ a\ new\ Vector\ object\ with\ the\ given\ x\ and\ y\ components.\n\ \n\ @param\ x\ The\ x-component\ of\ the\ new\ vector.\n\ @param\ y\ The\ y-component\ of\ the\ new\ vector.\n
+comment2.params=other
+comment2.target=Vector\ add(Vector)
+comment2.text=\n\n\ Adds\ a\ given\ vector\ to\ the\ current\ vector\ and\ returns\ the\ result\ as\ a\ new\ Vector\ object.\n\n\ @param\ other\ the\ vector\ to\ be\ added\ to\ the\ current\ vector\n\n\ @return\ a\ new\ Vector\ object\ representing\ the\ result\ of\ adding\ the\ current\ vector\ and\ the\ given\ vector\n
+comment3.params=other
+comment3.target=Vector\ sub(Vector)
+comment3.text=\n\ Returns\ the\ result\ of\ subtracting\ another\ vector\ from\ this\ vector.\n\ \n\ @param\ other\ The\ other\ vector\ to\ subtract\ from\ this\ vector.\n\ @return\ The\ difference\ between\ this\ vector\ and\ the\ other\ vector.\n
+comment4.params=newX\ newY
+comment4.target=void\ update(int,\ int)
+comment4.text=\n\ Updates\ the\ x\ and\ y\ components\ of\ this\ vector.\n\ \n\ @param\ newX\ The\ new\ x-component\ for\ this\ vector.\n\ @param\ newY\ The\ new\ y-component\ for\ this\ vector.\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Returns\ a\ string\ representation\ of\ this\ vector.\n\ \n\ @return\ A\ string\ representation\ of\ this\ vector\ in\ the\ format\ "Vector\ (x,y)".\n
+comment6.params=clockwise
+comment6.target=void\ rotate90(boolean)
+comment6.text=\n\ Rotates\ this\ vector\ by\ 90\ degrees\ in\ either\ the\ clockwise\ or\ counter-clockwise\ direction.\n\ \n\ @param\ clockwise\ Whether\ to\ rotate\ this\ vector\ clockwise\ or\ counter-clockwise.\n
+numComments=7

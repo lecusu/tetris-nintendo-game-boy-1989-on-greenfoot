@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Text
+comment1.params=text\ color
+comment1.target=Text(java.lang.String,\ greenfoot.Color)
+comment2.params=text
+comment2.target=void\ update(java.lang.String)
+numComments=3
