@@ -1,12 +1,14 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is tetris game inspired by 1989 Tetris gameboy version.
 ------------------------------------------------------------------------
+HOW TO USE IT:
+1. Down load GreenFoot on: https://www.greenfoot.org/download
+2. Download the file, then run it on Greenfoot
+3. Play!
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+HOW TO PLAY:
+arrow left, arrow right: move tiles to the left and right
+arrow up, a, s: rotate tiles
+d: hole tiles
+space: immediately place down tiles
+arrow down: move tiles down
